@@ -88,8 +88,8 @@ header {
 }
 
 .baner:last-of-type {
-    width: 406px;
-    height: 406px;
+    width: 396px;
+    height: 396px;
     background-image: url(img/screen4-image.jpg);
     background-position: center;
     border-radius: 50%;
